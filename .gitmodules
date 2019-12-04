@@ -1,0 +1,9 @@
+[submodule "Packages/SMILEI-Core"]
+	path = Packages/SMILEI-Core
+	url = https://git.fhict.nl/I875317/smilei-core.git
+[submodule "Packages/SMILEI-MidiMocker"]
+	path = Packages/SMILEI-MidiMocker
+	url = https://git.fhict.nl/I875317/smilei-midimocker.git
+[submodule "Packages/SMILEI-Vokaturi"]
+	path = Packages/SMILEI-Vokaturi
+	url = https://git.fhict.nl/I872272/smilei_vokaturi.git
