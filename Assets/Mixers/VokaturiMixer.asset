@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: VokaturiMixer
   m_EditorClassIdentifier: 
   _implementation:
-    Emotion: 1
+    Emotion: 2
     Sampler: {fileID: 11400000, guid: aa20445e8c8ce4c72b9c66093f6b7787, type: 2}
