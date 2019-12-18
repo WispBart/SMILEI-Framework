@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Enabled: 1
   SampleInterval: 1
-  SampleSizeInSeconds: 2
+  SampleSizeInSeconds: 4
   Buffer: {fileID: 11400000, guid: f157992933c2d4544b30630493630e72, type: 2}

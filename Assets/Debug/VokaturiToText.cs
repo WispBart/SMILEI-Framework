@@ -9,17 +9,6 @@ public class VokaturiToText : MonoBehaviour
 
     public VokaturiMixerAsset Mixer;
     public Text Display;
-    
-    void OnEnable()
-    {
-        (Mixer.Implementation as VokaturiMixer)?.Register();
-    }
-
-    void OnDisable()
-    {
-        (Mixer.Implementation as VokaturiMixer)?.Unregister();
-
-    }
 
     void Update()
     {
