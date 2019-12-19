@@ -31,7 +31,7 @@ public class VokaturiOutputLogger : MonoBehaviour
 
     private void OnReceive(VokaturiMixerAsset m, double value)
     {
-        if (!enabled) return;
+        if (!isActiveAndEnabled) return;
         
         Debug.Log($"{m.name} reports:\nValue at {Math.Round(Time.time, _roundingDigits)} seconds since play: {Math.Round(value,_roundingDigits)}");
     }
