@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a444880c65224c848470c9bd48117c7, type: 3}
   m_Name: P1Anger
   m_EditorClassIdentifier: 
-  Mixer:
-    Device: {fileID: 11400000, guid: a6adeb2145178472a966c7e48b466945, type: 2}
+  MidiEmotionMixer:
+    MidiDevice: {fileID: 11400000, guid: a6adeb2145178472a966c7e48b466945, type: 2}
     Knob: 0
