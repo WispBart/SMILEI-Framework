@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using SMILEI.Vokaturi;
+﻿using SMILEI.Vokaturi;
 using UnityEngine;
 using UnityEngine.UI;
 
