@@ -7,3 +7,6 @@
 [submodule "Packages/SMILEI-Vokaturi"]
 	path = Packages/SMILEI-Vokaturi
 	url = https://git.fhict.nl/I872272/smilei_vokaturi.git
+[submodule "Packages/SMILEI-NoldusSocket"]
+	path = Packages/SMILEI-NoldusSocket
+	url = https://git.fhict.nl/I875317/smilei-noldussocket.git
