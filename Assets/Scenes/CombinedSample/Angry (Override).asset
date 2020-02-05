@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a444880c65224c848470c9bd48117c7, type: 3}
-  m_Name: P1Stress
+  m_Script: {fileID: 11500000, guid: 79d1115515666479487e5a1a30bae072, type: 3}
+  m_Name: Angry (Override)
   m_EditorClassIdentifier: 
-  Mixer:
-    Device: {fileID: 0}
-    Knob: 2
+  DisplayName: 
+  LineColor: {r: 0.8679245, g: 0.3029548, b: 0.26610893, a: 1}
+  MixerAsset: {fileID: 11400000, guid: 99b3a8e90904049c29abc5efd85d6ebe, type: 2}

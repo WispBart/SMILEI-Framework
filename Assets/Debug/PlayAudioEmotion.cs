@@ -83,6 +83,7 @@ public class PlayAudioEmotion : MonoBehaviour
 
             if (ContinuePlayingSameEmotion)
             {
+                if (currentEmotion == null) return;
                 PlayAudio(currentEmotion, LoopSameAudioClip);
                 return;
             }

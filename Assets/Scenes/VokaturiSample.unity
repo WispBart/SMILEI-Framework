@@ -180,7 +180,7 @@ PrefabInstance:
     - target: {fileID: 5870527046409166946, guid: 5cdc0ab2d5fef4896a258422668c5bf5,
         type: 3}
       propertyPath: m_Name
-      value: Graph
+      value: VokaturiGraph
       objectReference: {fileID: 0}
     - target: {fileID: 5870527046409166950, guid: 5cdc0ab2d5fef4896a258422668c5bf5,
         type: 3}
