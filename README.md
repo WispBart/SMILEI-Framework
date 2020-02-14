@@ -8,7 +8,7 @@ If you want to use SMILEI as an end user, you should check out the submodules in
 https://git.fhict.nl/I875317/smilei-core
 https://git.fhict.nl/I875317/smilei-midimocker
 https://git.fhict.nl/I872272/smilei_vokaturi
-
+https://git.fhict.nl/I875317/smilei-noldussocket
 
 ## Contributions
 This project is being developed by [Fontys IXD](https://www.ixdfontysict.nl/).
