@@ -1174,7 +1174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   WriteBuffer: {fileID: 11400000, guid: f157992933c2d4544b30630493630e72, type: 2}
-  DeviceName: USB MICROPHONE
+  DeviceName: 
   Frequency: 44100
   LengthInSeconds: 4
 --- !u!1 &922371019
@@ -1339,7 +1339,7 @@ PrefabInstance:
     - target: {fileID: 1775395113695295055, guid: 49b2294decaa449cb83ac30a0f7a4a2b,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1775395113695295049, guid: 49b2294decaa449cb83ac30a0f7a4a2b,
         type: 3}
