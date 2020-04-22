@@ -1,12 +1,13 @@
 [submodule "Packages/SMILEI-Core"]
 	path = Packages/SMILEI-Core
-	url = https://git.fhict.nl/I875317/smilei-core.git
+	url = https://github.com/WispBart/SMILEI-Core.git
 [submodule "Packages/SMILEI-MidiMocker"]
 	path = Packages/SMILEI-MidiMocker
-	url = https://git.fhict.nl/I875317/smilei-midimocker.git
-[submodule "Packages/SMILEI-Vokaturi"]
-	path = Packages/SMILEI-Vokaturi
-	url = https://git.fhict.nl/I872272/smilei_vokaturi.git
+	url = https://github.com/WispBart/SMILEI-Midimocker.git
 [submodule "Packages/SMILEI-NoldusSocket"]
 	path = Packages/SMILEI-NoldusSocket
-	url = https://git.fhict.nl/I875317/smilei-noldussocket.git
+	url = https://github.com/WispBart/SMILEI-NoldusSocket.git
+[submodule "Packages/SMILEI-Vokaturi"]
+	path = Packages/SMILEI-Vokaturi
+	url = https://github.com/WispBart/SMILEI-Vokaturi.git
+	
